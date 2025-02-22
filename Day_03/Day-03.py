@@ -1,6 +1,7 @@
 #DATA tYPES IN PYTHON  
 
 # 1.Numeric tYPES
+
 # Python has three main numeric types:
 # a.Integer(int)
 # b.Floating-point(float)
@@ -22,3 +23,9 @@ num_complex: complex = 2 + 3j
 
 print(type(num_complex), " num_complex = ", num_complex)  # <class 'complex'>
 
+
+2.Boolean type
+
+is_python_fun: bool = True
+
+print(type(is_python_fun), " is_python_fun = ", is_python_fun)  # <class 'bool'>
