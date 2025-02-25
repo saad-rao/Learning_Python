@@ -21,6 +21,9 @@ Any improvements or additional resources are always welcome!
 
 🔹 **Day 03:** Data Types <br>
 🔹 **Day 04:** Operators demonstration <br>
+🔹 **Day 05:** Practice Questions<br>
+🔹 **Day 06:** String and type casting<br>
+
 
 ## 🚀 How to Use This Repository  
 
