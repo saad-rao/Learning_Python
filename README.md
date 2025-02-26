@@ -23,6 +23,8 @@ Any improvements or additional resources are always welcome!
 🔹 **Day 04:** Operators demonstration <br>
 🔹 **Day 05:** Practice Questions<br>
 🔹 **Day 06:** String and type casting<br>
+🔹 **Day 07:** Control Flow and Decision Making<br>
+
 
 
 ## 🚀 How to Use This Repository  
