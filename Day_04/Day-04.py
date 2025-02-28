@@ -86,7 +86,7 @@ x **= 3
 print(x)
 
 
-# 5. Identity Operators: are used to compare memory locations.
+# 5. Identity Operators (is): are used to compare memory locations.
 # Operator Name Example:
 # Returns If two items have the same memory location, x is the same as y. 
 # Otherwise, they are not.
@@ -100,3 +100,12 @@ print(x is z)
 print(x is y)
 print(x == y)
 print (x is not y)
+
+
+# 6. Membership Operators (in): are used to test if a sequence is present in an object.
+# Operator Name Example:    
+
+fruits = ["apple", "banana", "mango"]
+
+print("banana" in fruits)  # Output: True
+print("grapes" in fruits)  # Output: False
