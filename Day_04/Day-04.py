@@ -109,3 +109,9 @@ fruits = ["apple", "banana", "mango"]
 
 print("banana" in fruits)  # Output: True
 print("grapes" in fruits)  # Output: False
+
+# 7. Bitwise Operators: are used to compare binary numbers.
+# Operator Name Example:    
+
+a = 60
+b = 13  
