@@ -45,3 +45,29 @@ print(person.get("age"))
 
 person["name"] = "asad"
 person["age"] = 20
+
+# Modifying a Dictionary
+# You can add new key-value pairs or modify existing ones.
+
+# Example Code:
+
+person["city"] = "Karachi"
+print(person)
+
+
+# 5. Deleting Items
+# You can remove a key-value pair using the del keyword or the pop() method.
+
+# Note that pop() returns the value of the removed key-value pair, whereas del does not return anything.
+
+# You can also use pop() with a default value, in case the key is not found in the dictionary:
+
+# Example Code:
+
+person.pop("city")
+print(person)
+
+# 6. Looping Through a Dictionary
+# You can loop through a dictionary using a for loop.
+
+# By default, the loop iterates over the keys of the dictionary. You can also loop over the values or key-value pairs by using the values() and items() methods, respectively.
