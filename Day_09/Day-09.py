@@ -71,3 +71,32 @@ print(person)
 # You can loop through a dictionary using a for loop.
 
 # By default, the loop iterates over the keys of the dictionary. You can also loop over the values or key-value pairs by using the values() and items() methods, respectively.
+
+
+person:dict = {
+    "name":"saad",
+    "age":20,
+    "city":"Karachi",
+    "gender":"male"   
+}
+
+person["email"]= "saad123@gmail.com"
+print(person.values())
+print(person.keys())
+
+print(person.items())
+
+
+for values in person:
+    print(values,person[values])
+
+    
+# Duplicate Key Not Allowed
+# Dictionaries cannot have two items with the same key:
+
+person:dict ={
+    "name":"saad",
+    "name":"asad"
+}
+
+print(person)
