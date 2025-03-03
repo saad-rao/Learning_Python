@@ -16,7 +16,7 @@ Each **day's folder** contains:
 🔹 **Day 01:** Introduction to Python, Setup & Basics  
 🔹 **Day 02:** Arithmatic Operations <br>🤝 Contributing
 If you have suggestions, feel free to fork the repo and submit a pull request.
-Any improvements or additional resources are always welcome!
+Any improvements or additional resources are always welcome!<br>
 🔹 **Day 03:** Data Types <br>
 🔹 **Day 04:** Operators demonstration <br>
 🔹 **Day 05:** Practice Questions<br>
@@ -24,6 +24,7 @@ Any improvements or additional resources are always welcome!
 🔹 **Day 07:** Control Flow and Decision Making<br>
 🔹 **Day 08:** lists and tuples<br>
 🔹 **Day 09:** Dictionaries<br>
+🔹 **Day 10:** Practice Questions<br>
 
 
 ## 🚀 How to Use This Repository  
