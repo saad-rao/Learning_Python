@@ -35,3 +35,21 @@ print(my_set)
 my_set.discard(10)  # Agar element nahi mila to kuch nahi hoga
 
 
+#  Set Operations (Union, Intersection, Difference, Symmetric Difference)
+# Union (|) : Dono sets ke sab unique elements
+
+A = {1, 2, 3}
+B = {3, 4, 5}
+print(A | B)  # {1, 2, 3, 4, 5}
+
+
+#  Intersection (&) : Sirf common elements
+print(A & B)  # {3}
+
+# Difference (-)  A wale jo B me nahi hain
+
+print(A - B)  # {1, 2}
+
+# Symmetric Difference (^)  Jo sirf ek set me hain
+
+print(A ^ B)  # {1, 2, 4, 5}
